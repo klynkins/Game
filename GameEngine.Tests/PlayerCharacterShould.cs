@@ -2,7 +2,6 @@ using System;
 using Xunit;
 
 
-/* VS Code test */
 namespace GameEngine.Tests
 {
     public class PlayerCharacterShould
