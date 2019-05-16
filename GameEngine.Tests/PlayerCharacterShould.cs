@@ -1,7 +1,6 @@
 using System;
 using Xunit;
 
-/* Unit tests */ 
 namespace GameEngine.Tests
 {
     public class PlayerCharacterShould
